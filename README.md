@@ -1,26 +1,26 @@
-# Pink Circuit Theme
+# Maniac Theme
 
 A neon theme for [Omarchy](https://omarchy.org), inspired by Netflix's *Maniac*.
 Hot pink, cream CRT housings, and fine mint circuitry printed over dark plum.
 The wallpaper uses distressed silkscreen textures and flat ink shapes.
 
-![Pink Circuit wallpaper](backgrounds/pink-circuit.png)
+![Maniac wallpaper](backgrounds/maniac.png)
 
 ## Install
 
 Requires Omarchy quattro with `colors.toml` themes and the Quickshell shell.
 
 ```sh
-omarchy theme install https://github.com/eliasstravik/pink-circuit-theme
+omarchy theme install https://github.com/eliasstravik/maniac-theme
 ```
 
 Or open the Omarchy menu, choose **Install → Style → Theme**, and paste the
-repository URL. The installed theme is named `pink-circuit`.
+repository URL. The installed theme is named `maniac`.
 
 To apply it again later:
 
 ```sh
-omarchy theme set pink-circuit
+omarchy theme set maniac
 ```
 
 ## Palette
