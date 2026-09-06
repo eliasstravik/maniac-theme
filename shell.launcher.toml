@@ -1,0 +1,7 @@
+background = "#24152f"
+background-alpha = 0.98
+text = "#f6e4f3"
+border = "#ff87d1"
+selected-background = "#472749"
+selected-background-alpha = 1.0
+selected-text = "#f6e4f3"
